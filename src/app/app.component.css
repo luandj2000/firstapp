@@ -1,0 +1,63 @@
+a:hover{
+    border:1px solid red;  
+   }
+         #space{
+            height: 350px;
+   
+         } 
+         #divSmall{
+      height: 40px
+   }
+         #beethoven{
+   color:darkred
+   }
+         #bach{
+            color:rgb(220, 157, 20)
+         }
+   #mozart{
+      color: blueviolet
+   }
+   #puccini{
+      color: darkseagreen
+   }
+   #vivaldi{
+  
+      color: deeppink
+   }
+           h1{
+              background-color: aquamarine;
+              text-align:center;
+              
+           }
+           h2{
+              color: rgb(93, 151, 238);
+              text-align:center;
+           }
+        
+   #background
+      {
+      background-image: url("https://i.ytimg.com/vi/Vtmmly29QJ0/maxresdefault.jpg");
+      background-repeat: no-repeat;
+     background-size: cover
+      }
+      div {
+     height: 100px;
+     width: 500px;
+   }
+   .vertical-menu a{
+     background-color: #eee; /* Grey background color */
+     color: black; /* Black text color */
+     display: block; /* Make the links appear below each other */
+     padding: 20px; /* Add some padding */
+     text-decoration: none; /* Remove underline from links */
+     width:4cm;
+     text-align:center;
+     border: 10 px solid black;
+     margin-left: 110%;
+     margin-right:0%;
+     margin-top: 0%;
+     margin-bottom:0%;
+   
+   
+   }
+        
